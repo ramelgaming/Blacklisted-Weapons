@@ -1,1 +1,3 @@
 # Blacklisted-Weapons
+
+# ESX-ONLY
